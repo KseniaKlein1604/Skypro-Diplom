@@ -46,6 +46,6 @@ allure serve reports/
 
 ## Ссылки на исходные материалы
 - Чек-листы ручного тестирования:
-  -1.Функциональное и регрессионное :`https://chlist.sitechco.ru/project/53386/checklist`
-  -2.Smoke и приемочное : `https://app.qase.io/project/FP?case=2&suite=1` `https://app.qase.io/project/FP?case=2&suite=1`
+  - Функциональное и регрессионное :`https://chlist.sitechco.ru/project/53386/checklist`
+  - Smoke и приемочное : `https://app.qase.io/project/FP?case=2&suite=1` `https://app.qase.io/project/FP?case=2&suite=1`
 - Постман коллекция: `file:///C:/Users/alisa/Downloads/18%2018_25_1267631388940cf9.23525340%D0%A4%D0%98%D0%9D%D0%90%D0%9B%D0%AC%D0%9D%D0%AB%D0%99%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.postman_test_run%20(1).json` `file:///C:/Users/alisa/Downloads/18%2018_25_1067631386e5e567.10214256%D0%A4%D0%98%D0%9D%D0%90%D0%9B%D0%AC%D0%9D%D0%AB%D0%99%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.postman_collection%20(1).json`
